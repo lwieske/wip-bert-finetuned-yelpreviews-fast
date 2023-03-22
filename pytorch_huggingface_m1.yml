@@ -1,0 +1,19 @@
+name: pytorch_huggingface_m1
+channels:
+  - pytorch
+dependencies:
+  - python
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - transformers
+  - datasets
+  - evaluate
+  - pandas
+  - numpy
+  - scipy 
+  - matplotlib
+  - tqdm 
+  - jupyter
+  - nb_conda_kernels
